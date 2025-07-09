@@ -173,6 +173,28 @@ Driven by a strong curiosity to:
 
 ---
 
+## 📦 Arduino Libraries Used
+
+| Library     | Purpose                             | Source |
+|-------------|-------------------------------------|--------|
+| `RF24`      | Controls NRF24L01 RF modules        | [GitHub](https://github.com/nRF24/RF24) |
+| `MPU6050`   | Interfacing MPU6050 sensor          | [GitHub](https://github.com/jrowberg/i2cdevlib) |
+| `I2Cdev`    | MPU6050 helper for I2C comm         | [GitHub](https://github.com/jrowberg/i2cdevlib) |
+| `Wire.h`    | I2C protocol library (built-in)     | Built-in |
+| `SPI.h`     | SPI protocol for RF module (built-in)| Built-in |
+
+---
+
+## 📚 Resources Used
+
+| Resource Title                                    | Link                                                                 |
+|--------------------------------------------------|----------------------------------------------------------------------|
+| HowToMechatronics – NRF24L01 Tutorial            | https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/ |
+| Instructables – DIY Gesture Controlled Car       | https://www.instructables.com/DIY-Hand-Gestures-Controlled-Car-Using-Arduino-NRf/ |
+| 📒 My NRF24L01 Notes (Study Resource)            | > *(to be added)*|
+
+---
+
 ## 👨‍💻 Author
 
 **Harshit Kalra**  
