@@ -64,7 +64,8 @@ Driven by a strong curiosity to:
 
 ---
 
-### ⚙️ 2. Receiver Circuit Assembly
+### ⚙️ 2. Receiver Circuit Assembly 
+> *(add circuit diagram)*
 - Components used:
   - **Arduino UNO**
   - **NRF24L01 (RX)**
@@ -81,6 +82,7 @@ Driven by a strong curiosity to:
 ---
 
 ### 📡 3. Transmitter Circuit (Perfboard)
+> *(add circuit diagram)*
 - Designed a compact custom transmitter using:
   - **Arduino Nano**
   - **MPU6050** (for motion/gesture input)
