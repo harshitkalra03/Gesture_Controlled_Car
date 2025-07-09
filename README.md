@@ -192,7 +192,7 @@ Driven by a strong curiosity to:
 |--------------------------------------------------|----------------------------------------------------------------------|
 | HowToMechatronics – NRF24L01 Tutorial            | https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/ |
 | Instructables – DIY Gesture Controlled Car       | https://www.instructables.com/DIY-Hand-Gestures-Controlled-Car-Using-Arduino-NRf/ |
-| 📒 My NRF24L01 Notes (Study Resource)            | > *(to be added)*|
+| 📒 My NRF24L01 Notes (Study Resource)            | https://github.com/harshitkalra03/Gesture_Controlled_Car/blob/main/NRF24L01%20TRANSRECIEVER%20MODULE_250211_102434.pdf|
 
 ---
 
