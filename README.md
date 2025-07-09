@@ -178,8 +178,9 @@ Driven by a strong curiosity to:
 | Library     | Purpose                             | Source |
 |-------------|-------------------------------------|--------|
 | `RF24`      | Controls NRF24L01 RF modules        | [GitHub](https://github.com/nRF24/RF24) |
+| `nRF24L01.h`      | Controls NRF24L01 RF modules        | [GitHub](https://github.com/nRF24/RF24/blob/master/nRF24L01.h)|
 | `MPU6050`   | Interfacing MPU6050 sensor          | [GitHub](https://github.com/jrowberg/i2cdevlib) |
-| `I2Cdev`    | MPU6050 helper for I2C comm         | [GitHub](https://github.com/jrowberg/i2cdevlib) |
+| `I2C`    | MPU6050 helper for I2C comm         | [GitHub](https://github.com/jrowberg/i2cdevlib) |
 | `Wire.h`    | I2C protocol library (built-in)     | Built-in |
 | `SPI.h`     | SPI protocol for RF module (built-in)| Built-in |
 
